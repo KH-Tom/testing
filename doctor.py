@@ -59,5 +59,5 @@ class Doctor:
 
 # Doctor().enterDrInfor()
 Doctor().readDoctorsFile()
-# Doctor().displayDoctorsList()
+Doctor().displayDoctorsList()
 Doctor().searchDoctorById()
